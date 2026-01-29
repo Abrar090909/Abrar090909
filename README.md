@@ -10,7 +10,7 @@ I build things that *work*, not just things that look good.
 - 👯 Looking to collaborate on: Web apps, tools for devs, and OSS projects  
 - 🤔 Looking for help with: Deepening backend & system design skills  
 - 💬 Ask me about: DSA, APIs, Git workflows, and building from zero  
-- 📫 How to reach me: `abrar.ahmed.dev@gmail.com`  
+- 📫 How to reach me: `myselfabrar.23@gmail.com`  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I debug at midnight like legacy coders—no shortcuts, just thought
 
